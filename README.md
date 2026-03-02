@@ -1,7 +1,5 @@
 # CS-210 Journal Repo
 
-D. Beddingfield
-
   | Summarize the project and what problem it was solving.
 This project was a simple calculator that would calculate the amount of interest that would accumulate for the balance of a savings account over the course of _x_ amount of years, based on the initial balance, interest rate, and how much money is deposited each passing month.
 
